@@ -19,5 +19,3 @@ D: If A and B both betray the other, they share the sentence and serve 3 years.
 Economics states choosing to confess is a dominant strategy for both.
 
 In this project,i try and train a RL model on the problem and come up with its solution.
-
-![alt text](https://github.com/Saksham0109/RL-Prisoners-Dilemma/blob/main/img/image.jpg?raw=true)

@@ -1,4 +1,4 @@
-#Implementing Q-Learning Algorithm for the Prisoner Dilemma environment
+#Implementing Q-Learning Algorithm for the Prisoner Dilemma environment(2 Agent)
 import numpy as np
 
 class QLearning():

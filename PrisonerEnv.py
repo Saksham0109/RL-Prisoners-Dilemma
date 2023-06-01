@@ -1,4 +1,4 @@
-#Implementing Prisoner Dilemma as a gym environment
+#Implementing Prisoner Dilemma Problem as a gym environment
 import gym
 
 class PrisonerEnv(gym.Env):
